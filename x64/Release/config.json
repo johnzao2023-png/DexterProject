@@ -1,0 +1,53 @@
+{
+    "automatic_update": false,
+    "cache_refresh_rate": 1,
+    "esp_box_color_enemy": [
+        255,
+        0,
+        128
+    ],
+    "esp_box_color_team": [
+        0,
+        255,
+        50
+    ],
+    "esp_distance_color": [
+        75,
+        75,
+        175
+    ],
+    "esp_name_color": [
+        250,
+        250,
+        250
+    ],
+    "esp_skeleton_color_enemy": [
+        255,
+        0,
+        128
+    ],
+    "esp_skeleton_color_team": [
+        0,
+        255,
+        50
+    ],
+    "flag_render_distance": 400,
+    "render_distance": -1.0,
+    "show_armor_bar": false,
+    "show_box_esp": false,
+    "show_console": true,
+    "show_extra_flags": false,
+    "show_flag_armor": false,
+    "show_flag_defusing": false,
+    "show_flag_distance": false,
+    "show_flag_flashed": false,
+    "show_flag_health": false,
+    "show_flag_money": false,
+    "show_flag_name": false,
+    "show_flag_weapon": false,
+    "show_head_tracker": false,
+    "show_health_bar": false,
+    "show_skeleton_esp": false,
+    "streamproof": true,
+    "team_esp": true
+}
